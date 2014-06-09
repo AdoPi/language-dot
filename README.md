@@ -18,4 +18,5 @@ It is available at atom package, you can install it by using the apm manager.
 ## Thanks
 
 [Atom](https://github.com/atom/atom)
+
 [texmate repository](https://github.com/textmate/graphviz.tmbundle)
