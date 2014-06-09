@@ -1,4 +1,4 @@
-# Dot language (GraphViz) support in Atom
+# Dot language (GraphViz) support for Atom
 
 This package adds syntax highlighting and snippets to Dot files in Atom.
 
