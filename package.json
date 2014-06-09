@@ -1,0 +1,12 @@
+{
+  "name": "language-dot",
+  "version": "0.0.0",
+  "description": "add dot language (graphviz) support for atom",
+  "repository": "https://github.com/adopi/language-dot",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
