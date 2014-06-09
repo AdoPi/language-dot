@@ -13,7 +13,7 @@ It is available at atom package, you can install it by using the apm manager.
 
 ## Licence
 
- [](http://adopi.mit-license.org/)
+[MIT Licence](http://adopi.mit-license.org/)
 
 ## Thanks
 
