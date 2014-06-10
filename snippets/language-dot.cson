@@ -4,22 +4,22 @@
     'body': '-> '
   'New variable':
     'prefix': 'var'
-    'body': '${1:name}  [label="${2:$1}", shape=""]\n'
+    'body': '${1:name}  [label="${2:$1}", shape="${3:square}"]\n'
   'Dir property':
     'prefix': 'dir'
-    'body': '[dir=${1:|back,both,forward,none|}]'
+    'body': '[dir=${1:both}]'
   'Shape property':
     'prefix': 'shape'
-    'body': '[shape=box]'
+    'body': '[shape=${1:box}]'
   'Style properties':
     'prefix': 'style'
-    'body': '[style=${1:dotted}; color=${2:blue}; style=bold,label="100 times"; weight=8]'
+    'body': '[style=${1:dotted}; color=${2:blue}; style=${3:bold},label="${4:Kingler}"; weight=${5:10}]'
   'Graph Template':
     'prefix': 'graph'
-    'body': 'graph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -- $2${7:[label="${8:pikachu}"]}\n}\n'
+    'body': 'graph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -- $2${7:[label="${8:Pikachu}"]}\n}\n'
   'DiGraph Template':
     'prefix': 'digraph'
-    'body': 'graph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -> $2${7:[label="${8:bulbazaur}"]}\n}\n'
+    'body': 'graph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -> $2${7:[label="${8:Bulbazaur}"]}\n}\n'
   'Path from -> to [label)':
     'prefix': 'path'
-    'body': '${1:from} -> ${2:too} [label="${3:charizard}";]'
+    'body': '${1:from} -> ${2:too} [label="${3:Charizard}";]'
