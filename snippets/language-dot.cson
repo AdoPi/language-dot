@@ -19,7 +19,7 @@
     'body': 'graph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -- $2${7:[label="${8:Pikachu}"]}\n}\n'
   'DiGraph Template':
     'prefix': 'digraph'
-    'body': 'graph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -> $2${7:[label="${8:Bulbazaur}"]}\n}\n'
+    'body': 'digraph ${1:G} {\n\t/* Entities */\n\t${2:name}  [label="${3:$2}", shape="${4:square}"] \n\t/* Relationships */\n\t${6:F1} -> $2${7:[label="${8:Bulbazaur}"]}\n}\n'
   'Path from -> to [label)':
     'prefix': 'path'
     'body': '${1:from} -> ${2:too} [label="${3:Charizard}";]'
