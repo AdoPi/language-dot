@@ -26,7 +26,7 @@
     'name': 'storage.type.dot'
   }
   {
-    'match': '\\b(bottomlabel|color|comment|distortion|fillcolor|fixedsize|fontcolor|fontname|fontsize|group|height|label|layer|orientation|peripheries|regular|shape|shapefile|sides|skew|style|toplabel|URL|width|z)\\b'
+    'match': '\\b(bottomlabel|color|comment|distortion|fillcolor|fixedsize|fontcolor|fontname|fontsize|group|height|label|layer|orientation|penwidth|peripheries|regular|shape|shapefile|sides|skew|style|toplabel|URL|width|z)\\b'
     'name': 'support.constant.attribute.node.dot'
   }
   {
@@ -34,7 +34,7 @@
     'name': 'support.constant.attribute.edge.dot'
   }
   {
-    'match': '\\b(bgcolor|center|clusterrank|color|comment|compound|concentrate|fillcolor|fontname|fontpath|fontsize|label|labeljust|labelloc|layers|margin|mclimit|nodesep|nslimit|nslimit1|ordering|orientation|page|pagedir|quantum|rank|rankdir|ranksep|ratio|remincross|rotate|samplepoints|searchsize|size|style|URL)\\b'
+    'match': '\\b(bgcolor|center|clusterrank|color|comment|compound|concentrate|fillcolor|fontname|fontpath|fontsize|label|labeljust|labelloc|layers|margin|mclimit|nodesep|nslimit|nslimit1|ordering|orientation|page|penwidth|pagedir|quantum|rank|rankdir|ranksep|ratio|remincross|rotate|samplepoints|searchsize|size|style|URL)\\b'
     'name': 'support.constant.attribute.graph.dot'
   }
   {
