@@ -1,6 +1,8 @@
 'fileTypes': [
   'dot'
   'DOT'
+  'gv'
+  'GV'
 ]
 'firstLineMatch': 'digraph.*'
 'name': 'Graphviz (DOT)'
