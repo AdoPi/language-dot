@@ -1,5 +1,4 @@
-# Buy me a starbucks
-
+## Buy me a starbucks
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/adopi)
 
 # Dot language (GraphViz) support for Atom
