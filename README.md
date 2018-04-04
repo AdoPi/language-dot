@@ -1,3 +1,7 @@
+# Buy me a starbucks
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/adopi)
+
 # Dot language (GraphViz) support for Atom
 
 This package adds syntax highlighting and snippets to Dot files in Atom.
