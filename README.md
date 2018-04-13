@@ -1,4 +1,4 @@
-### Buy me a starbucks coffee
+### If you like my works take a coffee with me :)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/adopi)
 
 # Dot language (GraphViz) support for Atom
